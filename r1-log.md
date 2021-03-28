@@ -10,4 +10,4 @@ The log of my #100DaysOfCode challenge. Started on [March 28, Sunday, 2021].
 
 **Thoughts:** Starting to get to grips with React components and props. I really like Gatsby and how the site is structured through folder structure. Becoming familiar with project starts using npm and version control with Git. Need to understand styling in Gatsby better. But soon my focus will trun to JS Bootcamp and Gatsby will be for fun. 
 
-**Link to work:** [Illys Blog](https://illys-blog.vercel.app/)
+**Link to work:** [Illys Blog](https://illys-blog.vercel.app/), [Gatsby Docs Tutorial](https://illys-blog.vercel.app/)

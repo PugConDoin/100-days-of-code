@@ -1,6 +1,6 @@
-# #100DaysOfCode Log - Round 1 - [Mark Freeman]
+# #100DaysOfCode Log - Round 1 - Mark Freeman
 
-The log of my #100DaysOfCode challenge. Started on [March 28, Sunday, 2021].
+The log of my #100DaysOfCode challenge. Started on March 28, Sunday, 2021.
 
 ## Log
 

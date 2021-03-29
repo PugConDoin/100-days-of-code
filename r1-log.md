@@ -11,3 +11,12 @@ The log of my #100DaysOfCode challenge. Started on March 28, Sunday, 2021.
 **Thoughts:** Starting to get to grips with React components and props. I really like Gatsby and how the site is structured through folder structure. Becoming familiar with project starts using npm and version control with Git. Need to understand styling in Gatsby better. But soon my focus will trun to JS Bootcamp and Gatsby will be for fun. 
 
 **Link to work:** [Illys Blog](https://illys-blog.vercel.app/), [Gatsby Docs Tutorial](https://illys-blog.vercel.app/)
+
+### R1D2: March 29, 2021
+
+**Today's Progress**: Another Gatsby day. Gatsby Cloud. Global styles with gatsby-browser.js. Styles with CSS Modules. Nested Layout Components and Plugins. 
+
+**Thoughts:** Continuing Gatsby journey until JS Bootcamp kicks off. Wondering about CSS in JS and how to choose between Emotion, Styled Components, Chakra and Theme UI.
+
+**Link to work:** [Gatsby Tutorial Two - GATSBY CLOUD](With domains names:
+gatsbytutorialparttwomain.gatsbyjs.io), [Gatsby Tutorial Two - GITHUB](https://github.com/PugConDoin/gatsby-tutorial-part-two) 

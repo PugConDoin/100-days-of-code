@@ -19,3 +19,11 @@ The log of my #100DaysOfCode challenge. Started on March 28, Sunday, 2021.
 **Thoughts:** Continuing Gatsby journey until JS Bootcamp kicks off. Wondering about CSS in JS and how to choose between Emotion, Styled Components, Chakra and Theme UI.
 
 **Link to work:** [Gatsby Tutorial Two - GITHUB](https://github.com/PugConDoin/gatsby-tutorial-part-two) 
+
+### R1D3: March 30, 2021
+
+**Today's Progress**: Part 1: Continued Gatsby Tutorial from official docs. Typography Plugin. Styling elements inline. Layout components. 
+
+**Thoughts:** Managed to build a simple Gatsby three page site with basic global navigation using plugins and Layout components.
+
+**Link to work:** [Gatsby Tutorial Three - GITHUB](https://github.com/PugConDoin/gatsby-tutorial-part-three) 

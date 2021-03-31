@@ -22,8 +22,19 @@ The log of my #100DaysOfCode challenge. Started on March 28, Sunday, 2021.
 
 ### R1D3: March 30, 2021
 
-**Today's Progress**: Part 1: Continued Gatsby Tutorial from official docs. Typography Plugin. Styling elements inline. Layout components. 
+**Today's Progress**: Continued Gatsby Tutorial from official docs. Typography Plugin. Styling elements inline. Layout components. 
 
 **Thoughts:** Managed to build a simple Gatsby three page site with basic global navigation using plugins and Layout components.
 
 **Link to work:** [Gatsby Tutorial Three - GITHUB](https://github.com/PugConDoin/gatsby-tutorial-part-three) 
+
+
+### R1D4: March 31, 2021
+
+**Today's Progress**: JS Bootcamp Day Module 1 & 2: Programming basics. Problem solving. Algorithms. Flowcharts. Start Flowchart Project 1.
+
+**Thoughts:** Going to miss spending as much time with Gatsby as I had but know that taking the time to study the principles will serve me better in the long run. 
+
+**Link to work:** [Project 1 - Check Zero Algorithm Flowchart - GITHUB](https://github.com/PugConDoin/programming-flowcharts) 
+
+

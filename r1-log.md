@@ -29,12 +29,11 @@ The log of my #100DaysOfCode challenge. Started on March 28, Sunday, 2021.
 **Link to work:** [Gatsby Tutorial Three - GITHUB](https://github.com/PugConDoin/gatsby-tutorial-part-three) 
 
 
-### R1D4: March 31, 2021
+### R1D5: April 1, 2021
 
-**Today's Progress**: JS Bootcamp Day Module 1 & 2: Programming basics. Problem solving. Algorithms. Flowcharts. Start Flowchart Project 1.
+**Today's Progress**: JS Bootcamp Completed Module 2 Exercise. Created a flowchart to describe an algorithm that would prompt a user to guess a number. Returning number of attempts, highest, lowest and average number.  
 
-**Thoughts:** Going to miss spending as much time with Gatsby as I had but know that taking the time to study the principles will serve me better in the long run. 
+**Thoughts:** Making me rethink application design process. 
 
-**Link to work:** [Project 1 - Check Zero Algorithm Flowchart - GITHUB](https://github.com/PugConDoin/programming-flowcharts) 
 
 
